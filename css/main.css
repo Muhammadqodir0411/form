@@ -1,0 +1,46 @@
+
+
+.title {
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+    gap: 30px;
+}
+
+.paragirif {
+    font-size: 35px;
+}
+
+.input {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+}
+
+.btn:active {
+    background-color: blue;
+    color: #fff;
+}
+
+.container-box {
+    display: flex;
+    margin-left: 500px;
+    margin-top: 50px;
+    gap: 50px;
+}
+
+.wrraper-box {
+    border:  1px solid black;
+    padding: 20px 40px;
+}
+
+.fa-solid {
+    margin-left: 15px;
+}
